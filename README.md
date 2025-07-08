@@ -5,13 +5,13 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
-- 🔭 I’m currently working on **Pain management (VR Project)**
+- 🔭 I’m currently working on **Pain management (VR Project) and MERN Based Hospital Portal**
 
-- 🌱 I’m currently learning **Fullstack, AR/VR**
+- 🌱 I’m currently learning **Fullstack, MERN Stack, React-Native, AR/VR**
 
-- 🤝 I’m looking for help with **MR and VR development**
+- 🤝 I’m looking for help with **MERN Development**
 
-- 💬 Ask me about **VR development**
+- 💬 Ask me about **MERN  and VR development**
 
 - 📫 How to reach me **rsbragadeesh@gmail.com**
 
